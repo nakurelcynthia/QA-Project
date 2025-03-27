@@ -2,6 +2,9 @@
   "name": "qa-project",
   "version": "1.0.0",
   "description": "",
+
+  "main": "emailValidator.js",
+
 feature-FizzBuzz
   "main": "fizzbuzz.js",
 
@@ -11,12 +14,15 @@ feature-FizzBuzz
   "main": "numbers.js",
  main
  main
+
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-feature-FizzBuzz
+
+    "url": "git+https://github.com/Tihitnaabraham/QA-Project.git"
+
     "url": "git+https://github.com/mercywangara/QA-Project.git"
 
 feature/test
@@ -25,11 +31,17 @@ feature/test
     "url": "git+https://github.com/nakurelcynthia/QA-Project.git"
  main
  main
+
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
+
+    "url": "https://github.com/Tihitnaabraham/QA-Project/issues"
+  },
+  "homepage": "https://github.com/Tihitnaabraham/QA-Project#readme"
+
  feature-FizzBuzz
     "url": "https://github.com/mercywangara/QA-Project/issues"
   },
@@ -45,4 +57,5 @@ feature/test
   "homepage": "https://github.com/nakurelcynthia/QA-Project#readme"
  main
  main
+
 }
