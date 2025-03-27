@@ -2,19 +2,33 @@
   "name": "qa-project",
   "version": "1.0.0",
   "description": "",
+ feature/test
+  "main": "math.js",
+
   "main": "numbers.js",
+ main
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
+feature/test
+    "url": "git+https://github.com/AhendaEsther/QA-Project.git"
+
     "url": "git+https://github.com/nakurelcynthia/QA-Project.git"
+ main
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
+feature/test
+    "url": "https://github.com/AhendaEsther/QA-Project/issues"
+  },
+  "homepage": "https://github.com/AhendaEsther/QA-Project#readme"
+
     "url": "https://github.com/nakurelcynthia/QA-Project/issues"
   },
   "homepage": "https://github.com/nakurelcynthia/QA-Project#readme"
+ main
 }
