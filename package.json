@@ -1,0 +1,20 @@
+{
+  "name": "qa-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "emailValidator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tihitnaabraham/QA-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tihitnaabraham/QA-Project/issues"
+  },
+  "homepage": "https://github.com/Tihitnaabraham/QA-Project#readme"
+}
