@@ -2,19 +2,47 @@
   "name": "qa-project",
   "version": "1.0.0",
   "description": "",
+feature-FizzBuzz
   "main": "fizzbuzz.js",
+
+ feature/test
+  "main": "math.js",
+
+  "main": "numbers.js",
+ main
+ main
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
+feature-FizzBuzz
     "url": "git+https://github.com/mercywangara/QA-Project.git"
+
+feature/test
+    "url": "git+https://github.com/AhendaEsther/QA-Project.git"
+
+    "url": "git+https://github.com/nakurelcynthia/QA-Project.git"
+ main
+ main
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
+ feature-FizzBuzz
     "url": "https://github.com/mercywangara/QA-Project/issues"
   },
   "homepage": "https://github.com/mercywangara/QA-Project#readme"
+
+feature/test
+    "url": "https://github.com/AhendaEsther/QA-Project/issues"
+  },
+  "homepage": "https://github.com/AhendaEsther/QA-Project#readme"
+
+    "url": "https://github.com/nakurelcynthia/QA-Project/issues"
+  },
+  "homepage": "https://github.com/nakurelcynthia/QA-Project#readme"
+ main
+ main
 }
