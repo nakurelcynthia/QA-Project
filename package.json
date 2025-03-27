@@ -1,0 +1,20 @@
+{
+  "name": "qa-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "numbers.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakurelcynthia/QA-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nakurelcynthia/QA-Project/issues"
+  },
+  "homepage": "https://github.com/nakurelcynthia/QA-Project#readme"
+}
